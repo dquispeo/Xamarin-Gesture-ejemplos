@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4/wEoWtt4pQM9ZpG0KTp5OqR9L0FILHGJcnc26NI7Md3Ts9n/2gfzmCsJ+M7gWSPtxfPqvPUuKjqxAiFQnBq4A==",
+  "success": true,
+  "projectFilePath": "E:\\ProjectVisualStudio\\GestureDemo\\GestureDemo\\GestureDemo\\GestureDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\xamarin.forms\\3.4.0.1008975\\xamarin.forms.3.4.0.1008975.nupkg.sha512"
+  ],
+  "logs": []
+}
